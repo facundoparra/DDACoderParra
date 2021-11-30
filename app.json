@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "FirstProyecCoder",
-    "slug": "FirstProyecCoder",
+    "name": "app-panaderia",
+    "slug": "app-panaderia",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
