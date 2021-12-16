@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "FirstProyecCoder",
-    "slug": "FirstProyecCoder",
+    "name": "app-map",
+    "slug": "app-map",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
